@@ -1,0 +1,21 @@
+{
+  "name": "nvd3-eval",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "d3": "^3.4.4",
+    "highcharts": "^6.0.3",
+    "highcharts-exporting": "^0.1.2",
+    "nvd3": "^1.8.6",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
